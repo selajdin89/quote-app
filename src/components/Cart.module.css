@@ -1,0 +1,12 @@
+.quoteCart {
+  margin: 0 auto;
+  color: white;
+  min-width: 20rem;
+  max-width: 100%;
+  padding: 1rem;
+  width: 37%;
+  background: linear-gradient(260deg, #9b6c50 0%, #4f2626 100%);
+  border-radius: 10px;
+  font-family: monospace;
+  text-align: left;
+}

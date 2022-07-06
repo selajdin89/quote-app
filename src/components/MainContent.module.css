@@ -1,0 +1,35 @@
+.content {
+  margin-top: 12rem;
+}
+
+.actions {
+  padding: 1rem;
+}
+
+.actions button {
+  padding: 0.3rem 1.5rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: 1rem;
+  border: none;
+  color: #9b6c50;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.actions button:hover {
+  border: 1px solid black;
+  color: white;
+  background-color: #9b6c50;
+}
+
+.error-text {
+  color: darkred;
+  font-size: 1.2rem;
+}
+
+.title {
+  font-family: cursive;
+  font-size: 1.2rem;
+}
