@@ -1,9 +1,10 @@
 .footer {
+  text-align: center;
   margin-top: 10rem;
   font-family: cursive;
   animation: moveInBottom 0.8s ease-out 0.75s;
   animation-fill-mode: backwards;
-  color: #7c7070;
+  color: #fff;
 }
 
 @keyframes moveInBottom {
@@ -21,7 +22,7 @@
 .copyright {
   text-align: center;
   font-family: sans-serif;
-  color: #7c7070;
+  color: #fff;
   font-size: 0.7rem;
   padding: 0 3.5rem;
   position: sticky;
